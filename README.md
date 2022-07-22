@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mateus Pinheiro
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MateuslPinheiro/MateuslPinheiro/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **MateuslPinheiro/MateuslPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
